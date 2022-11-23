@@ -23,6 +23,9 @@ Entrar a la carpeta API_CRUD, abrir la terminal, y usar los siguientes comandos.
 
 Los puertos asignados seran mostrados en la terminal
 
+## Instalacion de la base de datos
+
+Importar el SQL en su gestor de base de datos
 
 ## Instalacion de la interfaz grafica
 
